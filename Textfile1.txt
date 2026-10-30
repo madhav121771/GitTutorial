@@ -5,7 +5,7 @@ TEST2
 >>>>>>> .merge_file_z1PLb2
 Hello world
 added some fansy sfuff in front end
-
+one bug fixed 
 this is the second line in the file.
 
 hi this is maddy.
