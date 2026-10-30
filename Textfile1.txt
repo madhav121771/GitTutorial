@@ -1,4 +1,8 @@
+<<<<<<< .merge_file_YRUi3o
 TEST1
+=======
+TEST2
+>>>>>>> .merge_file_z1PLb2
 Hello world
 added some fansy sfuff in front end
 
