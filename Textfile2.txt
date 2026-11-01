@@ -1,6 +1,8 @@
+maddy written something
 shubh written something
 Another file
 Who can see whats happening next .?
 
 this is shubh writing something.
-SHUBH IS HEREadding hunk as commithunk 3hunk2
+SHUBH IS HEREadding hunk as commit
+hunk 3hunk2
